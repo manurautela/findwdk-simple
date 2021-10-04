@@ -30,3 +30,13 @@
 *.exe
 *.out
 *.app
+
+# Build artifacts
+*\build\*
+*\build/*
+*.sys
+*.exe
+*.pdb
+*.obj
+*.log
+*.map
